@@ -1,8 +1,7 @@
-# React + Vite
+STEPS TO RUN THE APPLICATION
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Clone the github repository
+- In the terminal (make sure you are in the directory of the application) run 'npm run install'
+- Copy and replace the firebase config in the firebase.js file with the one sent through email and save the file
+- Now in the terminal run 'npm run dev'
+- This will run the app locally you can go to http://localhost:3000 and test it out
